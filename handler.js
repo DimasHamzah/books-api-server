@@ -3,6 +3,4 @@ const getALlBooksHandler = () => ({
   data: 'ok'
 });
 
-module.exports = {
-  getALlBooksHandler
-}
+module.exports = { getALlBooksHandler };
